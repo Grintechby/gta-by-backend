@@ -17,7 +17,9 @@
     "paths": {
       "prisma/*": ["prisma/*"],
       "users/*": ["users/*"],
-      "common/*": ["common/*"]
+      "common/*": ["common/*"],
+      "auth/*": ["auth/*"],
+      "types/*": ["types/*"],
     },
     "incremental": true,
     "skipLibCheck": true,
